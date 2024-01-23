@@ -1,0 +1,58 @@
+ul{
+    background-color: rosybrown;
+    overflow: hidden;
+}
+li{
+    list-style-type: none;
+    padding: 29px;
+    float: left;
+}
+li a{
+    padding: 20px;
+    text-decoration: none;
+    color: yellow;
+}
+
+li a:hover{
+     background-color: black;
+}
+body{
+    background-color: blanchedalmond;
+}
+#why{
+    float: right;
+    color: darkgray;
+    width: 37%;
+}
+#picha{
+    float: left;
+}
+#tone  , th , td {
+    border: 2px  solid cadetblue ;
+    width: 70%;
+    border-collapse: collapse;
+    padding: 20px;
+}
+#input{
+    width: 70%;
+}
+input[type=email] , textarea {
+    width: 60%;
+    border: 2px solid grey;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+input[type=submit]{
+     width: 60%;
+    border: 2px solid grey;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: cadetblue;
+    margin-top: 10px;
+}
+input[type=submit]:hover{
+    background-color: grey;
+}

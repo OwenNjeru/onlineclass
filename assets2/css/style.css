@@ -1,0 +1,14 @@
+td, th{
+    border: 2px solid crimson;
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    padding: 3px;
+}
+#tone , th,td{
+    border: 2px solid green;
+    border-collapse: collapse;
+    width: 80%;
+    padding: 20px;
+}

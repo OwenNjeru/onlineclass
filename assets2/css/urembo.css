@@ -1,0 +1,29 @@
+.navbar{
+    list-style-type: none;
+}
+
+ul{
+    list-style-type: none;
+    margin: ;
+    overflow: hidden;
+    background-color: green;
+}
+
+li{
+    float: left;
+    padding: 10px;
+    list-style-type: none;
+
+}
+li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+li a:hover{
+    background-color: black;
+}
+img{
+    border-radius: 50%;
+}
